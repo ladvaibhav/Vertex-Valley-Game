@@ -24,7 +24,7 @@ Note: This project is currently under active development. 🛠️
 > git clone https://github.com/ladvaibhav/Vertex-Valley-Game.git
 
 2. Navigate to the project folder:
-> cd vertex-valley-Game
+> cd Vertex-Valley-Game
 
 3. Compile and Run
 - Open the project in your preferred IDE.
